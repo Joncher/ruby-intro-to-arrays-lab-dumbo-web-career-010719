@@ -1,3 +1,3 @@
 @my_new_array = instantiate_new_array
-@my_new_array = []
-puts @my_new_array
+instantiate_new_array = []
+puts instantiate_new_array
